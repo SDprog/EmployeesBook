@@ -11,9 +11,9 @@ Web приложение на Java, которое управляет инфор
     MySQL
     Maven.
 
-![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/main.jpg)
-![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/add.jpg)
-![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/edit.jpg)
+![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/PhoneBookMain.jpg)
+![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/PhoneBookAdd.jpg)
+![Иллюстрация к проекту](https://github.com/SDprog/EmployeesBook/raw/master/src/main/resources/images/PhoneBookEdit.jpg)
 
 
 
